@@ -1,0 +1,14 @@
+
+{
+"employees": [
+  {
+    "firstname": "ujwal",
+  "lastname": "suke",
+  "address": "nagpur",
+  "pincode": "440013",
+  "username": "ujwals",
+  "password": "12345"
+
+  }
+]
+}
